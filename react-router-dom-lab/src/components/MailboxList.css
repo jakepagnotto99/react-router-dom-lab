@@ -1,0 +1,16 @@
+/* src/components/MailboxList.css */
+.mail-box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    line-height: 100px;
+  }
+  
+  .mailbox-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
